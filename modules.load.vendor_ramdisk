@@ -1,11 +1,5 @@
 mkp.ko
-bootprof.ko
-mrdump.ko
 mtk_disp_notify.ko
-aee_aed.ko
-aee_hangdet.ko
-monitor_hang.ko
-mtk_printk_ctrl.ko
 log_store.ko
 nvmem_mtk-devinfo.ko
 mtk_wdt.ko
@@ -66,7 +60,6 @@ panel-samsung-ana6705-cmd-fhdp.ko
 panel-alpha-jdi-nt36672e-cphy-vdo.ko
 panel-tianma-r66451-cmd-120hz.ko
 mediatek-drm.ko
-aee_rs.ko
 mmprofile.ko
 mtk-uart-apdma.ko
 8250_mtk.ko
