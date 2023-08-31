@@ -128,8 +128,6 @@ mtk_cm_ipi.ko
 mtk_cm_mgr.ko
 mtk_cm_mgr_mt6789.ko
 sec.ko
-uload_ind.ko
-load_track.ko
 double_click.ko
 xiaomi_touch.ko
 nt36523_touch.ko
@@ -142,7 +140,6 @@ widevine_driver.ko
 bus-parity.ko
 mtk_core_ctl.ko
 mtk_perf_common.ko
-task_turbo.ko
 pmsr.ko
 spmtwam.ko
 mtk_disp_sec.ko

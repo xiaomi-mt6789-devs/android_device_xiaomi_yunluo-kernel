@@ -161,8 +161,6 @@ mtk_tinysys_ipi.ko
 clk-disable-unused.ko
 mtk-pm-domain-disable-unused.ko
 sec.ko
-uload_ind.ko
-load_track.ko
 double_click.ko
 xiaomi_touch.ko
 nt36523_touch.ko
