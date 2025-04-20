@@ -1,7 +1,7 @@
 /*
  *
  * Automatically generated file; DO NOT EDIT.
- * Linux/arm64 5.10.226 Kernel Configuration
+ * Linux/arm64 5.10.234 Kernel Configuration
  *
  */
 #define CONFIG_NLS_CODEPAGE_861 1
@@ -94,6 +94,7 @@
 #define CONFIG_NLS_CODEPAGE_855 1
 #define CONFIG_MTK_SENSOR_SUPPORT_MODULE 1
 #define CONFIG_KASAN_HW_TAGS 1
+#define CONFIG_PROC_MEM_ALWAYS_FORCE 1
 #define CONFIG_UHID 1
 #define CONFIG_UBSAN_BOUNDS 1
 #define CONFIG_IP_NF_NAT 1
